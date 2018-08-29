@@ -1,6 +1,12 @@
 # C/C++ Barcode Reader for Raspberry Pi
 
-The samples demonstrate how to use [Dynamsoft Barcode Reader SDK](http://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx) to build C/C++ barcode reader on Raspberry Pi. The shared library **libDynamsoftBarcodeReader.so** is not publicly available yet. If you are interested in the **barcode SDK for Raspberry Pi**, please contact [support@dynamsoft.com](mailto:support@dynamsoft.com) to get a trial version.
+The samples demonstrate how to use [Dynamsoft Barcode Reader SDK](http://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx) to build C/C++ barcode reader on Raspberry Pi. 
+
+## License
+Get the [trial license for Linux](http://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-for-Raspberry-Pi-Download.aspx).
+
+## Download
+[DBR v6.3](http://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-for-Raspberry-Pi-Download.aspx)
 
 ## Getting Started
 1. Folder structure:
